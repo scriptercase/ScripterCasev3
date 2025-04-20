@@ -1,1 +1,1 @@
-obfuscated script here
+loadstring(game:HttpGet("https://github.com/scriptercase/ScripterCasev3.git"))()
