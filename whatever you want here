@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://github.com/scriptercase/ScripterCasev3.git"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptercase/ScripterCasev3/refs/heads/main/whatever20%you20%want20%here"))()
